@@ -14,12 +14,6 @@
  * limitations under the License.
  */
 
-body {
-  margin: 1em;
-  padding: 0;
-  font-family: Google Sans, Noto, Roboto, Helvetica Neue, sans-serif;
-  color: #244376;
-}
 
 
 #card {
@@ -61,7 +55,6 @@ model-viewer {
 footer {
   display: flex;
   flex-direction: column;
-  max-width: 600px;
   margin: auto;
   text-align: center;
   font-style: italic;

@@ -253,5 +253,16 @@ h2 {
         margin-top: 20px;
         width: 100%;
     }
+    .feature__icon {
+        width: 20px;
+    }
+    .feature__title {
+        margin-left: 20px;
+        width: auto;
+    }
+    .feature__text {
+        margin-left: 20px;
+        width: auto;
+    }
 }
 

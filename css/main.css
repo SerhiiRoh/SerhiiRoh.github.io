@@ -215,6 +215,20 @@ h2 {
     .title__text {
         width: auto;
     }
+    .model {
+        width: 100%;
+    }
+    .feature__icon {
+        width: 20px;
+    }
+    .feature__title {
+        margin-left: 20px;
+        width: auto;
+    }
+    .feature__text {
+        margin-left: 20px;
+        width: auto;
+    }
 }
 @media screen and (max-width: 576px) {
     .logo {
